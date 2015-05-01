@@ -1,12 +1,11 @@
 {
   "name": "setvaluer",
-  "version": "1.0.0-a",
+  "version": "1.0.0-b",
   "description": "Sets the property value of the object.",
   "main": "index.js",
-  "dependencies": {
+  "devDependencies": {
     "tapef": "^0.0.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "node test/main.js"
   },
