@@ -1,0 +1,27 @@
+{
+  "name": "setvaluer",
+  "version": "1.0.0",
+  "description": "Sets the property value of the object.",
+  "main": "index.js",
+  "dependencies": {
+    "tapef": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unlight/setValueR"
+  },
+  "keywords": [
+    "setvalue",
+    "object"
+  ],
+  "author": "S <https://github.com/unlight>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unlight/setValueR/issues"
+  },
+  "homepage": "https://github.com/unlight/setValueR"
+}
