@@ -4,7 +4,7 @@ Sets the property value of the object.
 
 INSTALL
 -------
-`nmp install setvaluer`
+`npm install setvaluer`
 
 USAGE
 -----
