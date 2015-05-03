@@ -15,7 +15,8 @@ setvalue("application.cookies.key", data, 42);
 // data is now: { application: { cookies: { key: 42 } } }
 ```
 
-RELATED PROJECTS
+SIMILAR PROJECTS
 ----------------
 https://github.com/jprichardson/node-field  
-https://github.com/unlight/getValueR  
+https://github.com/jonschlinkert/set-value  
+  
