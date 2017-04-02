@@ -1,5 +1,7 @@
 setValueR
 =========
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/unlight/setValueR.svg)](https://greenkeeper.io/)
 Sets the property value of the object.
 
 INSTALL
