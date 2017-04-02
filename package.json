@@ -4,7 +4,7 @@
   "description": "Sets the property value of the object.",
   "main": "index.js",
   "devDependencies": {
-    "tapef": "^0.0.0"
+    "tapef": "^0.0.1"
   },
   "scripts": {
     "test": "node test/main.js"
